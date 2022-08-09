@@ -1,0 +1,29 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los
+siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+· Variables
+· Strings
+· Funciones (argumentos, return)
+· Declaraciones if
+· Valores booleanos (true, false)
+
+ACTIVIDAD  - DEFINICIONES
+
+Variables: Es un valor que puede cambiar durante el curso de la ejecución de un programa.
+
+String: Es una cadena de letras (caracteres).
+
+Funciones: Es una herramienta utlizada para simplificar/optimizar código.
+
+Argumentos: Son los valores que complementar a las funciones.
+
+Return: Es un valor que nos regresa la ejecución de la función.
+
+Declaraciones if: Es una sentencia que se usa para tomar decisiones, como resultado
+                              podremos obtener "true" o  "false".
+
+Valores booleanos:  Es aquel que puede representar 2 valores, que normalmente representan falso o verdadero.
+
+True: Es la confición / valor verdadero.
+
+False: Es la condición / valor falso.
