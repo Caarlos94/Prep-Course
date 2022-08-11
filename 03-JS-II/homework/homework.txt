@@ -1,0 +1,17 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de
+los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for
+&&, ||, !
+
+DEFINICIONES 
+
+For : Es una herramienta de control, nos permite ejecutar de manera repetitiva un bloque de instrucciones.
+
+&& : Es una manera de indicarle al programa que para que una condición sea verdadera deben
+         cumplirse 2 condiciones. (Condición 1 Y Condición 2) → (Condición 1 && Condición 2)
+
+||:   Es una manera de indicarle al programa que para que una condición sea verdadera debe
+         cumplirse 1 de entre condiciones . (Condición 1 O Condición 2) → (Condición 1 || Condición 2)
+
+! : Es una manera de indicarle al programa que para que debe negar una condición.
