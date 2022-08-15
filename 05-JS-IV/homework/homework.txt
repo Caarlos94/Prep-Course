@@ -1,0 +1,22 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir
+rápidamente cualquier agujero en tu comprensión.
+
+Objetos
+Propiedades
+Métodos
+Bucle for…in
+Notación de puntos vs notación de corchetes
+
+OBJETOS: Son una entidad a la que podemos nombrar mediante sus propiedades, por ejemplo, si el objeto es
+	una persona, las propiedades que podemos atribuirle serian algo como: nombre, edad, peso, etc.
+
+PROPIEDADES: Son las caracteristicas que podemos atribuirle a un objeto, estas propiedades describen al mismo
+	objeto.
+
+MÉTODOS: Se le llaman metodos a las funciones dentro de un objeto.
+
+BUCLE FOR... IN: Es un ciclo for de interaciones pero especialmento ocupado para objetos.
+
+NOTACIÓN DE PUNTOS VS NOTACIÓN DE CORCHETES: Son diferentes maneras en que podemos realizar actividades
+	dentro de un objeto.
