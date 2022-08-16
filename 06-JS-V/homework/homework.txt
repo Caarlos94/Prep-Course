@@ -1,0 +1,11 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes
+conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a
+descubrir rápidamente cualquier agujero en tu comprensión.
+
+prototype
+Constructors (de Clases)
+
+PROTOTYPE: SE PUEDE ENTENDER COMO EL ESPACIO INTERNO PARA UNA PROPIEDAD QUE SE RESERVA DENTRO
+	DEL OBJETO. 
+
+CONSTRUCTORS: ES UN MÉTODO PARA CREAR E INICIALIZAR UN OBJETO CREADO A PARTIR DE UNA CLASE.
