@@ -1,0 +1,33 @@
+h1{
+    color: aqua;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: medium solid blue;
+}
+
+#spanId{
+    font-size: 18px;
+    margin:50px;
+}
+
+/* ESTABLECER UNA IMAGEN COMO FONDO DE PANTALLA */
+body .image{
+    width: 100%;
+    height: auto;
+    background-image: url(https://irecetasfaciles.com/wp-content/uploads/2019/08/pizza-de-jamon-queso-y-tocino.jpg);
+}
+
+/* CENTRAR LOS DIVS EN UNA PÁGINA Y CENTRAR TODOS LOS ELEMENTOS EN LA PÁGINA */ 
+div{
+    margin: 0px auto;
+    text-align: center;
+}
